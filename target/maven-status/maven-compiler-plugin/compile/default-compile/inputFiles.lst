@@ -1,0 +1,9 @@
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/starter-webservice-soap/src/main/java/com/thekingoftech/app/config/Config.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/starter-webservice-soap/src/main/java/com/thekingoftech/app/StarterWebserviceSoapApplication.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/starter-webservice-soap/src/main/java/com/thekingoftech/xml/project/ProjectDetailsResponse.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/starter-webservice-soap/src/main/java/com/thekingoftech/xml/project/package-info.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/starter-webservice-soap/src/main/java/com/thekingoftech/app/endpoint/ProjectEndpoint.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/starter-webservice-soap/src/main/java/com/thekingoftech/xml/project/ObjectFactory.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/starter-webservice-soap/src/main/java/com/thekingoftech/xml/project/ProjectDetailsRequest.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/starter-webservice-soap/src/main/java/com/thekingoftech/xml/project/Project.java
+/home/kaio/Projetos/Pessoal/GITHUB/JAVA/starter-webservice-soap/src/main/java/com/thekingoftech/app/repository/ProjectRepository.java
